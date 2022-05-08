@@ -1,0 +1,39 @@
+.container {
+    text-align: center;
+    margin-top: 23px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    border-radius: 21px;
+    border: 5px solid black;
+    font-size: 34px;
+    height: 65px;
+    width: 456px;
+}
+
+button {
+    border-radius: 20px;
+    font-size: 40px;
+    background:rgb(176, 223, 227);
+    width: 102px;
+    height: 90px;
+    border-radius: 28px;
+    display: inline-block;
+}
+
+.calculator {
+    background-image: url('bg.jpg');
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    border: 5px solid black;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
